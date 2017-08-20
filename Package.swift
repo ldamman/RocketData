@@ -9,6 +9,7 @@ let package = Package(
 	],
 	exclude: [
 		"RocketDataTests",
+		"SampleApp",
 		"Pods",
 	]
 )
