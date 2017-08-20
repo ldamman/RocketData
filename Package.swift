@@ -8,6 +8,7 @@ let package = Package(
 		.Package(url: "https://github.com/ldamman/ConsistencyManager-iOS.git", majorVersion: 4),
 	],
 	exclude: [
+		"RocketDataTests",
 		"Pods",
 	]
 )
