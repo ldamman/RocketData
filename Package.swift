@@ -5,7 +5,7 @@ let package = Package(
 		Target(name: "RocketData", dependencies: []),
 	],
 	dependencies: [
-		.Package(url: "https://github.com/linkedin/ConsistencyManager-iOS.git", majorVersion: 4),
+		.Package(url: "https://github.com/ldamman/ConsistencyManager-iOS.git", majorVersion: 4),
 	],
 	exclude: [
 	]
